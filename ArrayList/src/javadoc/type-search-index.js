@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"oksana.internship.model","l":"ComparatorArray"},{"p":"oksana.internship","l":"Main"},{"p":"oksana.internship.model","l":"MyArrayList"}];updateSearchResults();
